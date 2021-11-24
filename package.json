@@ -1,0 +1,18 @@
+{
+  "name": "2_leraning-mongo_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon index.js",
+    "upld": "git add . git commit -m 'direct commit' git push -u origin master"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  }
+}
